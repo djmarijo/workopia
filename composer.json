@@ -1,0 +1,16 @@
+{
+    "name": "djmarijo/workopia-php",
+    "description": "Job listing application",
+    "authors":  [
+        {
+            "name": "Marijo Đurović",
+            "email": "djmarijo@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4" : {
+            "Framework\\": "Framework/",
+            "App\\": "App/"
+        }
+    }
+}
